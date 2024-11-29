@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8804C93A-EE45-4AAC-A825-2531EAEB6AE9}|animals.csproj|c:\\users\\brian.andrade\\source\\repos\\animals\\controllers\\speciecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8804C93A-EE45-4AAC-A825-2531EAEB6AE9}|animals.csproj|solutionrelative:controllers\\speciecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8804C93A-EE45-4AAC-A825-2531EAEB6AE9}|animals.csproj|c:\\users\\brian.andrade\\source\\repos\\animals\\dtos\\animalnewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8804C93A-EE45-4AAC-A825-2531EAEB6AE9}|animals.csproj|solutionrelative:dtos\\animalnewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8804C93A-EE45-4AAC-A825-2531EAEB6AE9}|animals.csproj|c:\\users\\brian.andrade\\source\\repos\\animals\\services\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8804C93A-EE45-4AAC-A825-2531EAEB6AE9}|animals.csproj|solutionrelative:services\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8804C93A-EE45-4AAC-A825-2531EAEB6AE9}|animals.csproj|c:\\users\\brian.andrade\\source\\repos\\animals\\controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8804C93A-EE45-4AAC-A825-2531EAEB6AE9}|animals.csproj|solutionrelative:controllers\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8804C93A-EE45-4AAC-A825-2531EAEB6AE9}|animals.csproj|c:\\users\\brian.andrade\\source\\repos\\animals\\services\\interfaces\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8804C93A-EE45-4AAC-A825-2531EAEB6AE9}|animals.csproj|solutionrelative:services\\interfaces\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\Controllers\\AnimalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnimalController.cs",
+              "ToolTip": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\Controllers\\AnimalController.cs",
+              "RelativeToolTip": "Controllers\\AnimalController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:21:42.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\Services\\AnimalService.cs",
+              "RelativeDocumentMoniker": "Services\\AnimalService.cs",
+              "ToolTip": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\Services\\AnimalService.cs",
+              "RelativeToolTip": "Services\\AnimalService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wF4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:21:35.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\Services\\Interfaces\\IAnimalService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAnimalService.cs",
+              "ToolTip": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\Services\\Interfaces\\IAnimalService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAnimalService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:21:24.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalNewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\DTOs\\AnimalNewDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\AnimalNewDTO.cs",
+              "ToolTip": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\DTOs\\AnimalNewDTO.cs",
+              "RelativeToolTip": "DTOs\\AnimalNewDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:22:06.306Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "00b43a1f-9a55-430e-8173-87c94dc27631",
+        "Display": 0,
+        "X": -128,
+        "Y": 234,
+        "Width": 1587,
+        "Height": 586,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpecieController.cs",
+              "DocumentMoniker": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\Controllers\\SpecieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SpecieController.cs",
+              "ToolTip": "C:\\Users\\Brian.andrade\\source\\repos\\animals\\Controllers\\SpecieController.cs",
+              "RelativeToolTip": "Controllers\\SpecieController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:32:56.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
